@@ -1,6 +1,6 @@
 ## OpenSearch - Search, Visualize, and Analyze 🚀🚀🚀
 
-![1717786801604](https://github.com/user-attachments/assets/92634d38-bb73-4293-ac48-a1505b5151fa)
+![images](https://github.com/user-attachments/assets/4d3c26b3-ba31-44ca-8759-ed728031de46)
 
 ### Terraform  | AWS
 OpenSearch is a enterprise-grade search and observability suite that brings order to unstructured data at scale
@@ -13,6 +13,11 @@ OpenSearch is a enterprise-grade search and observability suite that brings orde
 ✅ Security Analytics ( Threat Intelligence and Event Correlation )
 
 ```
+
+🎯 Provisioning
+
+How to launch : Will be soon ...
+
 
 🔨 Example : Config 
 
