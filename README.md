@@ -1,8 +1,9 @@
-## OpenSearch is a enterprise-grade search and observability suite that brings order to unstructured data at scale
+## OpenSearch - Search, Visualize, and Analyze
 
 
 ### Terraform  | AWS
-OpenSearch is a search and analytics suite that makes it easy to ingest, search, visualize, and analyze
+OpenSearch is a enterprise-grade search and observability suite that brings order to unstructured data at scale
+
 
 ```
 ✅ Machine Learning and AI  (  Vector Database & Anomaly Detection )
