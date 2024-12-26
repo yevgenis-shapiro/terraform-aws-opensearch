@@ -1,4 +1,4 @@
-## OpenSearch  
+## OpenSearch is a enterprise-grade search and observability suite that brings order to unstructured data at scale
 
 
 ### Terraform  | AWS
